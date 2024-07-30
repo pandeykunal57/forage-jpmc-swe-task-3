@@ -1,0 +1,23 @@
+From 9211f06ce552e373ad00a51388afdfc10b359195 Mon Sep 17 00:00:00 2001
+From: pandeykunal57 <148645697+pandeykunal57@users.noreply.github.com>
+Date: Tue, 30 Jul 2024 15:49:25 +0530
+Subject: [PATCH] Completed
+
+---
+ src/Graph.tsx | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Graph.tsx b/src/Graph.tsx
+index 277797d..387470d 100644
+--- a/src/Graph.tsx
++++ b/src/Graph.tsx
+@@ -57,4 +57,4 @@ class Graph extends Component<IProps, {}> {
+   }
+ }
+ 
+-export default Graph;
++export default Graph;
+\ No newline at end of file
+-- 
+2.45.2.windows.1
+
